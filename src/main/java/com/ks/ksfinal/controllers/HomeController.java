@@ -19,4 +19,9 @@ public class HomeController {
     public String starterPage() {
         return "estartup/starter-page";
     }
+
+    @GetMapping({"/login","/login.html"})
+    public String login() {
+        return "login";
+    }
 }
