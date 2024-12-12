@@ -5,3 +5,4 @@ photopea.com -- photoshop
 codesquire.ai -- Turn your thoughts into code <br />
 https://www.napkin.ai/ -- Get Visuals from your text <br />
 https://gamma.app/ -- A new medium for presenting ideas. <br />
+OpenAI canvas for programming --- <br />
