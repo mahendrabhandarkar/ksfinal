@@ -15,3 +15,5 @@ Visualization Tools : Matplotlib, Seaborn, Tableau
 Natural Language Processing (NLP) Libraries (if applicable): spaCy, NLTK, Hugging Face Transformers
 Computer Vision Libraries (if applicable): OpenCV, YOLO (You Only Look Once)
 Reinforcement Learning Libraries (if applicable): OpenAI Gym, Stable Baselines
+Machine Learning Frameworks and Libraries : TensorFlow, PyTorch, Scikit-learn, Keras
+AI Topics : Computer Vision, NLP, LLM, Machine Learning, Document Intelligence, Knowledge Mining
