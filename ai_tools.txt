@@ -6,3 +6,14 @@ codesquire.ai -- Turn your thoughts into code <br />
 https://www.napkin.ai/ -- Get Visuals from your text <br />
 https://gamma.app/ -- A new medium for presenting ideas. <br />
 OpenAI canvas for programming --- <br />
+
+
+
+Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
+Data Processing Tools : Pandas, NumPy
+Visualization Tools : Matplotlib, Seaborn, Tableau
+Natural Language Processing (NLP) Libraries (if applicable): spaCy, NLTK, Hugging Face Transformers
+Computer Vision Libraries (if applicable): OpenCV, YOLO (You Only Look Once)
+Reinforcement Learning Libraries (if applicable): OpenAI Gym, Stable Baselines
+Machine Learning Frameworks and Libraries : TensorFlow, PyTorch, Scikit-learn, Keras
+AI Topics : Computer Vision, NLP, LLM, Machine Learning, Document Intelligence, Knowledge Mining
