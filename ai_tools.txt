@@ -6,6 +6,7 @@ codesquire.ai -- Turn your thoughts into code <br />
 https://www.napkin.ai/ -- Get Visuals from your text <br />
 https://gamma.app/ -- A new medium for presenting ideas. <br />
 https://visualgpt.io/whiteboard -- For Graphical mindmapping <br />
+https://codeium.com/download -- Windsurf Editor for coding via AI. <br />
 OpenAI canvas for programming --- <br />
 
 
