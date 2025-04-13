@@ -9,7 +9,7 @@ https://visualgpt.io/whiteboard -- For Graphical mindmapping <br />
 https://codeium.com/download -- Windsurf Editor for coding via AI. <br />
 OpenAI canvas for programming --- <br />
 https://theresanaiforthat.com/coding-help/?ref=suggest --- Find AI tool <br />
-
+https://bolt.new/ -- code generation <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
