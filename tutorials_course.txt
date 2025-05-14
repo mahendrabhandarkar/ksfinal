@@ -5,3 +5,4 @@ https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOk
 https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O -- Operating System
 https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ -- Java + DSA + Interview Preparation Course
 https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx - Computer Networks -- Neso academy
+https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation -- HTML source guide.
