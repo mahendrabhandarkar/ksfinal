@@ -10,6 +10,7 @@ https://codeium.com/download -- Windsurf Editor for coding via AI. <br />
 OpenAI canvas for programming --- <br />
 https://theresanaiforthat.com/coding-help/?ref=suggest --- Find AI tool <br />
 https://bolt.new/ -- code generation <br />
+https://clickup.com/ -- Project Management <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
