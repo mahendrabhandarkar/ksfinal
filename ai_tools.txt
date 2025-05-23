@@ -22,3 +22,5 @@ Machine Learning Frameworks and Libraries : TensorFlow, PyTorch, Scikit-learn, K
 AI Topics : Computer Vision, NLP, LLM, Machine Learning, Document Intelligence, Knowledge Mining
 
 XGBoost, short for eXtreme Gradient Boosting, is an advanced machine learning algorithm designed for efficiency, speed, and high performance.
+Flutter UI Design via AI -- https://stitch.withgoogle.com/ -- Design at the Speed of AI <br />
+An Asynchronous Coding Agent -- https://jules.google/ -- <br />
