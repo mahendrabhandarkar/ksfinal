@@ -13,6 +13,7 @@ https://bolt.new/ -- code generation <br />
 https://clickup.com/ -- Project Management <br />
 https://replit.com/ai -- Coding Platform for Website <br />
 https://www.cursor.com/ --- The AI Code Editor <br />
+https://www.coderabbit.ai/ --- Code Rabbit <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
