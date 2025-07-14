@@ -14,6 +14,7 @@ https://clickup.com/ -- Project Management <br />
 https://replit.com/ai -- Coding Platform for Website <br />
 https://www.cursor.com/ --- The AI Code Editor <br />
 https://www.coderabbit.ai/ --- Code Rabbit <br />
+https://www.parakeet-ai.com/ --- AI Intervew Assstant <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
@@ -27,3 +28,5 @@ AI Topics : Computer Vision, NLP, LLM, Machine Learning, Document Intelligence, 
 XGBoost, short for eXtreme Gradient Boosting, is an advanced machine learning algorithm designed for efficiency, speed, and high performance.
 Flutter UI Design via AI -- https://stitch.withgoogle.com/ -- Design at the Speed of AI <br />
 An Asynchronous Coding Agent -- https://jules.google/ -- <br />
+Claude IDE --- For code generation <br />
+Amazon Q Developer --- For code and infrastructure AWS <br />
