@@ -15,6 +15,8 @@ https://replit.com/ai -- Coding Platform for Website <br />
 https://www.cursor.com/ --- The AI Code Editor <br />
 https://www.coderabbit.ai/ --- Code Rabbit for code review<br />
 https://www.parakeet-ai.com/ --- AI Intervew Assstant <br />
+https://windsurf.com/ --- AI coding assistant for developers and enterprises <br />
+https://devin.ai/ --- Devin, the AI software engineer <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
