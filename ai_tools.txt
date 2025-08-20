@@ -17,6 +17,9 @@ https://www.coderabbit.ai/ --- Code Rabbit for code review<br />
 https://www.parakeet-ai.com/ --- AI Intervew Assstant <br />
 https://windsurf.com/ --- AI coding assistant for developers and enterprises <br />
 https://devin.ai/ --- Devin, the AI software engineer <br />
+https://chat.deepseek.com/ --- DeepSeek AI --- <br />
+https://lovable.dev/ --- lovable dev --- <br />
+https://chat.z.ai/ --- Chat with Z.ai - Free AI Chatbot powered by GLM-4.5 -- <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
