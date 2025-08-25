@@ -20,6 +20,7 @@ https://devin.ai/ --- Devin, the AI software engineer <br />
 https://chat.deepseek.com/ --- DeepSeek AI --- <br />
 https://lovable.dev/ --- lovable dev --- <br />
 https://chat.z.ai/ --- Chat with Z.ai - Free AI Chatbot powered by GLM-4.5 -- Good AI for creating design related code <br />
+https://hailuoai.video/ --- text to video <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
