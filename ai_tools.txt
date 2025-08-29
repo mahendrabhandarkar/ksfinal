@@ -21,6 +21,7 @@ https://chat.deepseek.com/ --- DeepSeek AI --- <br />
 https://lovable.dev/ --- lovable dev --- <br />
 https://chat.z.ai/ --- Chat with Z.ai - Free AI Chatbot powered by GLM-4.5 -- Good AI for creating design related code <br />
 https://hailuoai.video/ --- text to video <br />
+https://nanobanana.ai/ --- Nano-banana is the most advanced AI image editor on LMArena. Revolutionize your photo editing with natural language understanding <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
