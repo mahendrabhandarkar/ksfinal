@@ -1,1 +1,4 @@
 https://www.posha.com/ -- see dinner cook itself
+Centaur is an AI model -- simulate human behavior in novel situations by learning from a massive dataset of human choices and decisions from psychological experiments <br />
+Simple AI agent: Calendar Assistant Example --- https://youtube.com/playlist?list=PL7nQ66x_nLTVc3ZCBoB-vmqGy2HTHpcU3&si=VSy-GS5TXX-5Wm1m <br />
+Alpha Fold --- better than 100% human
