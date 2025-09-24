@@ -24,6 +24,8 @@ https://chat.z.ai/ --- Chat with Z.ai - Free AI Chatbot powered by GLM-4.5 -- Go
 https://www.kimi.com/ --- Free AI chat codeing --- https://moonshotai.github.io/Kimi-K2/
 https://hailuoai.video/ --- text to video <br />
 https://nanobanana.ai/ --- Nano-banana is the most advanced AI image editor on LMArena. Revolutionize your photo editing with natural language understanding <br />
+https://manus.im/ --- General AI agent that bridges mind and action -- <br />
+https://base44.com/ --- Build Apps with AI in minutes -- vibe coding <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
