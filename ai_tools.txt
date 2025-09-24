@@ -26,6 +26,7 @@ https://hailuoai.video/ --- text to video <br />
 https://nanobanana.ai/ --- Nano-banana is the most advanced AI image editor on LMArena. Revolutionize your photo editing with natural language understanding <br />
 https://manus.im/ --- General AI agent that bridges mind and action -- <br />
 https://base44.com/ --- Build Apps with AI in minutes -- vibe coding <br />
+https://claude.ai/ -- <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
