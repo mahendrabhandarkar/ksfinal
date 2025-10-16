@@ -30,6 +30,7 @@ https://claude.ai/ -- <br />
 https://fellou.ai/ -- <br />
 https://app.relevanceai.com - multi agent workforce <br />
 https://h2ogpte.genai.h2o.ai/ -- https://h2o.ai/ -- <br />
+Roocode, docker, Stitch with google --- <br />
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
