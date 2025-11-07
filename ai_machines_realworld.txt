@@ -8,3 +8,4 @@ Super Market Object Detection Dataset by YOLO -- For Supermarket scenario <br />
 https://openai.com/index/why-language-models-hallucinate/ -- Why Language Model Hallucinate <br />
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/an-executives-guide-to-ai -- An exexutive guide to AI by Mackinsey Quantum -- <br />
 https://arxiv.org/pdf/2311.02462 -- Level of AI <br />
+OpenMeter provides flexible Billing and Metering for AI and DevTool companies.
