@@ -24,14 +24,38 @@ https://chat.z.ai/ --- Chat with Z.ai - Free AI Chatbot powered by GLM-4.5 -- Go
 https://www.kimi.com/ --- Free AI chat codeing --- https://moonshotai.github.io/Kimi-K2/
 https://hailuoai.video/ --- text to video <br />
 https://nanobanana.ai/ --- Nano-banana is the most advanced AI image editor on LMArena. Revolutionize your photo editing with natural language understanding <br />
-https://manus.im/ --- General AI agent that bridges mind and action -- <br />
+https://manus.im/app --- General AI agent that bridges mind and action -- <br />
 https://base44.com/ --- Build Apps with AI in minutes -- vibe coding <br />
-https://claude.ai/ -- <br />
+Huggingchat: https://huggingface.co/chat -- -- <br />
+Claude: https://claude.ai/chats -- <br /
+Perplexity: https://www.perplexity.ai/ - - <br />
+ChatGPT: https://chat.openai.com/ -- <br />
+Gemini: https://gemini.google.com/app  -- <br />
+
 https://fellou.ai/ -- <br />
 https://app.relevanceai.com - multi agent workforce <br />
 https://h2ogpte.genai.h2o.ai/ -- https://h2o.ai/ -- <br />
 Roocode, docker, Stitch with google --- <br />
 https://antigravity.google/ --- Antigravity AI Coding tool <br />
+https://app.sesame.com/ -- voice AI <br />
+https://elevenlabs.io/ ---   <br />
+https://flair.ai/ --- Generate Images for Product <br />
+https://pi.ai/talk ---- <br />
+https://www.designrush.com/best-designs/apps/meet-app-design -- <br />
+Stable Diffusion -- <br />
+https://www.canva.com/ai ---
+Lattice AI tools ---
+Power BI Copilot --- 
+Jasper AI --- 
+Glean / Fireflies / Otter.ai ---- Summarization & Synthesis
+Gobii AI --- 
+Google Workspace AI --- 
+https://chatgpt.com/gpts/ --- 
+https://github.com/features/copilot --- Github Copilot --- 
+https://copilot.microsoft.com/ --- Microsoft Copilot --- 
+HuggingChat Assistant --- Free 
+Google AI Studio ---- 
+NotebookLM --- 
 
 Development Environments : Jupyter Notebook, Visual Studio Code (VS Code)
 Data Processing Tools : Pandas, NumPy
@@ -48,3 +72,7 @@ An Asynchronous Coding Agent -- https://jules.google/ -- https://github.com/goog
 Claude IDE --- For code generation <br />
 Amazon Q Developer --- For code and infrastructure AWS <br />
 https://www.rundown.ai/tools?category=Most+Popular --- Discover the best AI tools with Supertools. <br />
+gemini nano run locally on android hardware --- 
+
+AI Detector by ZeroGPT --- 
+MidJourney Data Protecton / Stable Diffusion Data Privacy / No firefly or Abode --- 
