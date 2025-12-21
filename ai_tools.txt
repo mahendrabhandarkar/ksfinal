@@ -76,3 +76,5 @@ gemini nano run locally on android hardware ---
 
 AI Detector by ZeroGPT --- 
 MidJourney Data Protecton / Stable Diffusion Data Privacy / No firefly or Abode --- 
+Gemini CLI is an open-source AI agent that brings the power of Gemini directly into your terminal. It provides lightweight access to Gemini, giving you the most direct path from your prompt to our model.
+
