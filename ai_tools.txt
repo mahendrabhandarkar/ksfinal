@@ -31,6 +31,11 @@ Claude: https://claude.ai/chats -- <br /
 Perplexity: https://www.perplexity.ai/ - - <br />
 ChatGPT: https://chat.openai.com/ -- <br />
 Gemini: https://gemini.google.com/app  -- <br />
+https://animagraffs.com/
+https://enzostvs-deepsite.hf.space/
+https://www.toolfk.com/
+
+
 
 https://fellou.ai/ -- <br />
 https://app.relevanceai.com - multi agent workforce <br />
